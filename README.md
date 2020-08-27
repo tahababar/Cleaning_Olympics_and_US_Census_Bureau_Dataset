@@ -1,2 +1,5 @@
 # Cleaning_Olympics_and_US_Census_Bureau_Dataset
 A Data Science Project
+
+
+The first part of the project focused on cleaning olympics dataset from Wikipedia. The dataset was based on the number of gold, silver and bronze medals each country have received. I used pandas to find countries' loacations in dataframes, to find which country has won the most gold medals, to find the country which have the biggest difference between their summer and winter gold medal counts, and to create a series that allocates points to each country based on their wins. For the second part of the project, I cleaned a data set from the United States Census Bureau that contained the population data for counties and states in the US from 2010 to 2015. Using pandas, I wrote code to find the state with most counties in it, to find the county with the largest absolute change and to create a query that finds the counties that belong to 2 specific regions, whose name starts with 'Washington', and whose population in 2015 was greater than their population in 2014.
